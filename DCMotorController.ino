@@ -1,7 +1,7 @@
 #define LIBCALL_ENABLEINTERRUPT   // Para evitar conflictos de compilacion
                                   // por parte de la libreria EnableInterrupt
 #include <Arduino.h>
-#include <DCMotorServoPCI.h>
+#include <DCMotorServo.h>
 #include <EnableInterrupt.h>
 #include "motor.h"
 
