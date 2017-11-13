@@ -10,7 +10,7 @@
  *
  *   #define STEPPERS_DISABLE_BIT   7 // MEGA2560 Digital Pin 13
  *
- * GRBL config:
+ * My GRBL config:
  *   $100=75.000    (x, step/mm)
  *   $101=75.000    (y, step/mm)
  *   $102=75.000    (z, step/mm)
