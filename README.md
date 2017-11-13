@@ -174,3 +174,9 @@ GPLv2
 ## Autor
 
 Tapia Favio
+
+## Feedback
+
+Por favor agradecería que me envies cualquier duda y/o comentario para mejorar el proyecto, gracias.
+
+Mail: technicc (at) gmail.com
